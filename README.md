@@ -13,6 +13,8 @@
 ### 1️⃣ 市场调研与热点追踪
 | 技能 | 说明 |
 |------|------|
+| `search` | 网络搜索与Tavily API热点抓取 |
+| `weather` | 实时天气查询 |
 | `trending-hot` | 全平台热搜监控与热点追踪 |
 | `social-listen` | 社交监听与舆情监控 |
 | `audience-analyzer` | 用户画像与受众分析工具 |
@@ -99,7 +101,7 @@
 | `openclaw-skill-weibo-hot` | 微博热搜获取 |
 | `douyin-downloader-skill` | 抖音视频下载 |
 | `bilibili-favorites-classifier` | B站收藏分类 |
-| `bilibili-follow-classifier` | B站关注分类 |
+| `tavily-search` | Tavily AI搜索技能 |
 
 ## 🚀 快速安装
 

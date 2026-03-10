@@ -75,22 +75,22 @@
 | `collaboration-hub` | 团队任务分配与进度追踪 |
 | `backup-sync` | 内容自动备份与多端同步 |
 
+### 🔟 外部贡献技能
+| 技能 | 说明 |
+|------|------|
+| `XiaohongshuSkills` | 小红书自动发布（图文/视频） |
+| `xiaohongshu-ops` | 小红书全自动化运营 |
+| `xiaohongshu-text-image` | 小红书图文卡片生成 |
+| `ai-video-pro` | AI视频生成与多平台发布 |
+
 ## 🚀 快速安装
 
-### 一键安装所有技能
+### 克隆本仓库安装
 ```bash
-# 批量安装
-for skill in copywriter headline-optimizer seo-writer topic-generator content-calendar audience-analyzer competitor-analysis comment-manager community-bot workflow-automation; do
-  clawhub install $skill
-done
-```
-
-### 单独安装
-```bash
-# 安装特定技能
-clawhub install copywriter
-clawhub install headline-optimizer
-clawhub install canghe-xhs-images
+git clone https://github.com/nexaclaw/openclaw-media-skills.git
+cd openclaw-media-skills
+# 链接需要的技能到 OpenClaw
+ln -sfn $(pwd)/copywriter ~/.openclaw/skills/copywriter
 ```
 
 ## 📚 使用示例

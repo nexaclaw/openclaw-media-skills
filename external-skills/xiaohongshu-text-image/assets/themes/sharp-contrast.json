@@ -1,0 +1,17 @@
+{
+  "name": "sharp-contrast",
+  "background": "#F7F5F2",
+  "panel_fill": "#FFFDFC",
+  "panel_stroke": "#E9E2DC",
+  "accent": "#E6422B",
+  "accent_soft": "#FFD6CF",
+  "text_primary": "#171313",
+  "text_secondary": "#625A58",
+  "tag_bg": "#E6422B",
+  "tag_text": "#FFFDFC",
+  "highlight_bg": "#171313",
+  "highlight_text": "#FFFDFC",
+  "footer_fill": "#171313",
+  "footer_text": "#FFFDFC",
+  "font_family": "PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif"
+}

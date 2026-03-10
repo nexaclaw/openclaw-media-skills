@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书文字图"
+  short_description: "生成适合小红书笔记发布的封面图、标题图和轮播文字卡片"
+  default_prompt: "使用 $xiaohongshu-text-image 把下面内容拆成小红书封面图和 4 张轮播文字卡片。"

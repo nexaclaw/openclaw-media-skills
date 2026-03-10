@@ -1,0 +1,17 @@
+{
+  "name": "warm-note",
+  "background": "#FFF8F1",
+  "panel_fill": "#FFFDFB",
+  "panel_stroke": "#F4DDD4",
+  "accent": "#EF5A47",
+  "accent_soft": "#FFD9CF",
+  "text_primary": "#231815",
+  "text_secondary": "#6E5A53",
+  "tag_bg": "#231815",
+  "tag_text": "#FFF8F1",
+  "highlight_bg": "#FFE7DE",
+  "highlight_text": "#9A3528",
+  "footer_fill": "#231815",
+  "footer_text": "#FFF8F1",
+  "font_family": "PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif"
+}

@@ -1,6 +1,12 @@
 # OpenClaw 自媒体技能合集
 
 > 覆盖自媒体起号/变现全流程的28个OpenClaw技能
+> 
+> 🌐 **更多资源请访问：[nexaclaw.cn](https://nexaclaw.cn)**
+> 
+> 为内容创作者提供从选题、创作、发布到数据分析、商业变现的全套自动化工具。
+
+---
 
 ## 📦 技能清单
 
@@ -111,10 +117,21 @@ AI：使用 content-calendar 技能生成...
 
 欢迎提交 PR 完善这些技能！
 
+有任何问题或建议，请通过以下方式联系我们：
+- 🌐 官网：https://nexaclaw.cn
+- 📧 邮箱：contact@nexaclaw.cn
+- 💬 GitHub Issues
+
 ## 📄 License
 
-MIT
+MIT License © 2025 Nexaclaw. All rights reserved.
 
 ---
 
-> 这些技能旨在帮助自媒体创作者实现全流程自动化运营，提升内容产出效率。
+<p align="center">
+  <strong>🌐 更多技能请访问：<a href="https://nexaclaw.cn">nexaclaw.cn</a></strong>
+</p>
+
+<p align="center">
+  <em>这些技能旨在帮助自媒体创作者实现全流程自动化运营，提升内容产出效率。</em>
+</p>

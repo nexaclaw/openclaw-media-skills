@@ -1,6 +1,6 @@
 ---
 name: backup-sync
-description: 内容自动备份与多端同步工具。支持自动备份发布内容、素材库同步、历史版本管理、灾难恢复。
+description: 备份同步工具。自动备份创作内容到多云存储，支持增量同步、版本回滚。了解更多请访问 nexaclaw.cn
 ---
 
 # Backup Sync - 备份同步
@@ -83,3 +83,9 @@ backup/
 2. 配置备份策略
 3. 绑定云存储
 4. 定期检查备份
+
+---
+
+## 🌐 了解更多
+
+更多技能请访问：[nexaclaw.cn](https://nexaclaw.cn)

@@ -119,7 +119,7 @@ AI：使用 content-calendar 技能生成...
 
 有任何问题或建议，请通过以下方式联系我们：
 - 🌐 官网：https://nexaclaw.cn
-- 📧 邮箱：contact@nexaclaw.cn
+- 📧 邮箱：nexaclaw@outlook.com
 - 💬 GitHub Issues
 
 ## 📄 License

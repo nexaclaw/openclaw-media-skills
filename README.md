@@ -82,6 +82,8 @@
 | `xiaohongshu-ops` | 小红书全自动化运营 |
 | `xiaohongshu-text-image` | 小红书图文卡片生成 |
 | `ai-video-pro` | AI视频生成与多平台发布 |
+| `paper-to-xiaohongshu` | 论文/文章转小红书笔记 |
+| `china-growth-ops` | 多平台增长运营（抖音+快手+小红书+微信+电商） |
 
 ## 🚀 快速安装
 
